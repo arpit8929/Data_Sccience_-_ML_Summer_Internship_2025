@@ -147,16 +147,29 @@ Follow up with Decision Tree and Random Forest models, optimizing hyperparameter
 
 ---
 
-## 📊 Work Timeline
-
-- **Week 1 & 2 (26 May – 8 June):**  
-  Learned fundamentals of Python for Data Science, including NumPy, Pandas, Matplotlib, Seaborn, Exploratory Data Analysis, and Machine Learning basics.  
+## 📊 Project Work Timeline 
 
 - **Week 3 (9 June – 15 June):**  
-  Started **Project 1 (SVM & k-NN Classifiers from Scratch)** – implemented distance metrics, Elbow Method, kernel tricks, and classifier testing.  
+  Started **Project 1 (SVM & k-NN Classifiers from Scratch)**
+  – Understood project requirements and outlined the workflow.
+  – Implemented distance metrics (Euclidean, Manhattan) for k-NN.
+  – Applied the Elbow Method for selecting the optimal k-value.
+  – Designed custom kernel functions (linear, polynomial, RBF) for SVM.
+  – Tested classifiers on synthetic and real-world datasets.
+  – Compared performance with sklearn’s inbuilt SVM & k-NN.
+  – Documented findings, accuracy scores, and limitations.
 
 - **Week 4 (16 June – 24 June):**  
-  Worked on **Project 2 (Stock Price Prediction for TSLA)** – prepared dataset, applied regression models, tuned hyperparameters, and evaluated results.  
+  Worked on **Project 2 (Stock Price Prediction for TSLA)**
+  – Defined objectives and planned dataset preparation strategy.
+  – Collected and preprocessed historical Tesla stock price data.
+  – Performed feature engineering (moving averages, technical indicators).
+  – Implemented multiple regression models: Linear Regression, Random Forest, XGBoost.
+  – Conducted hyperparameter tuning using GridSearchCV.
+  – Evaluated models with MSE, RMSE, and R² score.
+  – Visualized actual vs predicted stock prices using Matplotlib & Seaborn.
+  – Compared models’ performance and identified the best-fit approach.
+  – Compiled project report summarizing methodology, results, and insights.  
 
 ---
 
