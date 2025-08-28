@@ -179,7 +179,20 @@ During this internship, I gained hands-on experience in:
 - Data preprocessing, visualization, and analysis  
 - Implementing ML models from scratch  
 - Time-series forecasting and regression techniques  
-- Applying optimization and evaluation metrics  
+- Applying optimization and evaluation metrics
+
+## 📚 References  
+
+- **Documentation**  
+  - [NumPy Documentation](https://numpy.org/doc/)  
+  - [Pandas Documentation](https://pandas.pydata.org/docs/)  
+  - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)  
+  - [Seaborn Documentation](https://seaborn.pydata.org/)  
+  - [Scikit-learn Documentation](https://scikit-learn.org/stable/)  
+
+- **Datasets & Articles**  
+  - [Yahoo Finance – Tesla Stock Data](https://finance.yahoo.com/quote/TSLA/history/)  
+  - [Towards Data Science – k-NN and SVM Tutorials](https://towardsdatascience.com/)  
 
 This internship helped strengthen my **machine learning foundations** and improve my ability to work on **real-world projects**.
 
